@@ -1,0 +1,54 @@
+{
+  "name": "Aladian Trading PLC",
+  "tagline": "Building resilient supply chains and transformative manufacturing ventures in Ethiopia.",
+  "vision": "To become Ethiopia's most trusted integrated trading and manufacturing group, advancing quality industries and inclusive prosperity.",
+  "mission": "We source, produce, and distribute essential goods responsibly while empowering local talent, strengthening infrastructure, and delivering sustainable value to partners and communities.",
+  "values": [
+    "Mutual Respect",
+    "Reliability",
+    "Transparency",
+    "Loyalty",
+    "Honesty",
+    "Integrity"
+  ],
+  "objectives": [
+    "Expand diversified manufacturing capacity with globally benchmarked quality systems.",
+    "Develop reliable distribution networks that prioritize customer success and resilience.",
+    "Nurture an empowered workforce through continual learning, safety, and wellbeing.",
+    "Forge ethical partnerships that elevate local suppliers and international collaborators.",
+    "Invest in technology and infrastructure that future-proof Ethiopia's industrial growth."
+  ],
+  "address": {
+    "country": "Ethiopia",
+    "city": "Addis Abeba",
+    "subCity": "Yeka Sub-City",
+    "woreda": "Woreda 09",
+    "house": "H.No 2465",
+    "landmark": "In front of Ethiopian Electric Utility HQ"
+  },
+  "phones": ["+251-901234950", "+251-950443138"],
+  "emails": ["info.aladiantrading@et.com"],
+  "website": "www.aladiantrading@et.com",
+  "socials": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/company/aladiantrading"
+    },
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/aladiantrading"
+    }
+  ],
+  "meta": {
+    "title": "Aladian Trading PLC | Diversified Trading & Manufacturing in Ethiopia",
+    "description": "Aladian Trading PLC is a diversified Ethiopian enterprise spanning manufacturing, distribution, construction materials, agro-processing, and infrastructure services.",
+    "keywords": [
+      "Ethiopia",
+      "Trading",
+      "Manufacturing",
+      "Distribution",
+      "Industrial",
+      "Supply Chain"
+    ]
+  }
+}

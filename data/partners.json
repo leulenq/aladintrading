@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Ethiopia Steel Works",
+    "logo": "/logo.svg",
+    "url": "https://example.com/partner1"
+  },
+  {
+    "name": "Horn Agro Export",
+    "logo": "/logo.svg",
+    "url": "https://example.com/partner2"
+  },
+  {
+    "name": "Nile Logistics",
+    "logo": "/logo.svg",
+    "url": "https://example.com/partner3"
+  },
+  {
+    "name": "Global Paper Source",
+    "logo": "/logo.svg",
+    "url": "https://example.com/partner4"
+  },
+  {
+    "name": "Addis Infrastructure Group",
+    "logo": "/logo.svg",
+    "url": "https://example.com/partner5"
+  }
+]

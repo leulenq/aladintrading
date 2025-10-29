@@ -1,0 +1,71 @@
+{
+  "pillars": [
+    {
+      "name": "Manufacturing",
+      "description": "Modern production facilities delivering essential industrial and consumer goods."
+    },
+    {
+      "name": "Wholesale & Distribution",
+      "description": "Nationwide sourcing and distribution networks ensuring supply reliability."
+    },
+    {
+      "name": "Paper Products",
+      "description": "Sustainable paper conversion spanning thermal, packaging, and stationery lines."
+    },
+    {
+      "name": "Food & Agro-processing",
+      "description": "Value-added food ingredients and agro commodities sourced from Ethiopian farmers."
+    },
+    {
+      "name": "Import & Export",
+      "description": "Cross-border trade services bridging regional demand with responsible sourcing."
+    },
+    {
+      "name": "Construction",
+      "description": "Integrated building materials supply and project support for infrastructure growth."
+    },
+    {
+      "name": "Mining & Minerals",
+      "description": "Strategic partnerships extracting and processing Ethiopia's mineral resources."
+    },
+    {
+      "name": "Transportation & Infrastructure",
+      "description": "Efficient logistics, warehousing, and infrastructure enablement for industrial partners."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Construction Materials Wholesale",
+      "summary": "Expanding multi-region distribution of cement, steel, and finishing materials for developers.",
+      "status": "active"
+    },
+    {
+      "name": "Sesame Tahini Production",
+      "summary": "Commissioning a hygienic processing line for premium sesame pastes for regional export.",
+      "status": "construction"
+    },
+    {
+      "name": "Thermal Paper & Related Products",
+      "summary": "Sourcing precision machinery to produce specialty paper rolls for retail and logistics clients.",
+      "status": "procurement"
+    }
+  ],
+  "futurePipeline": [
+    {
+      "name": "Cold Chain Logistics Network",
+      "description": "Temperature-controlled storage and transport serving pharmaceuticals and perishables."
+    },
+    {
+      "name": "Eco-Packaging Conversion Plant",
+      "description": "Recycled fiber-based packaging to support circular economy goals."
+    },
+    {
+      "name": "Agro Inputs Blending Hub",
+      "description": "Blended fertilizers and soil enhancers tailored for Ethiopian growers."
+    },
+    {
+      "name": "Industrial Chemical Distribution",
+      "description": "Safe and compliant supply of specialty chemicals for manufacturing clients."
+    }
+  ]
+}
