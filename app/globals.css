@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  body {
+    @apply bg-brand-canvas text-brand-ink;
+    background-image: linear-gradient(135deg, rgba(159, 194, 217, 0.12) 0%, rgba(244, 229, 214, 0.18) 45%, rgba(230, 239, 248, 0.24) 100%), theme("backgroundImage.noise-soft");
+    background-attachment: fixed;
+    font-feature-settings: "liga" 1, "kern" 1;
+  }
+
+  ::selection {
+    background: theme('colors.brand.accent');
+    color: theme('colors.brand.surface');
+  }
+
+  a {
+    @apply transition-colors duration-200;
+  }
+}
+
+@layer utilities {
+  .btn-reset {
+    @apply border-none bg-transparent p-0;
+    font: inherit;
+    color: inherit;
+  }
+
+  [data-radix-scroll-area-viewport] {
+    @apply !overflow-x-auto;
+  }
+}

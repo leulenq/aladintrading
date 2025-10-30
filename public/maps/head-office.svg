@@ -1,0 +1,43 @@
+<svg width="960" height="540" viewBox="0 0 960 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="540" rx="28" fill="url(#gradient)"/>
+  <g opacity="0.15">
+    <path d="M120 80L820 80" stroke="#243140" stroke-width="1.2" stroke-dasharray="8 12"/>
+    <path d="M120 160L820 160" stroke="#243140" stroke-width="1.2" stroke-dasharray="8 12"/>
+    <path d="M120 240L820 240" stroke="#243140" stroke-width="1.2" stroke-dasharray="8 12"/>
+    <path d="M120 320L820 320" stroke="#243140" stroke-width="1.2" stroke-dasharray="8 12"/>
+    <path d="M120 400L820 400" stroke="#243140" stroke-width="1.2" stroke-dasharray="8 12"/>
+    <path d="M200 40L200 500" stroke="#243140" stroke-width="1.2" stroke-dasharray="8 12"/>
+    <path d="M320 40L320 500" stroke="#243140" stroke-width="1.2" stroke-dasharray="8 12"/>
+    <path d="M440 40L440 500" stroke="#243140" stroke-width="1.2" stroke-dasharray="8 12"/>
+    <path d="M560 40L560 500" stroke="#243140" stroke-width="1.2" stroke-dasharray="8 12"/>
+    <path d="M680 40L680 500" stroke="#243140" stroke-width="1.2" stroke-dasharray="8 12"/>
+    <path d="M800 40L800 500" stroke="#243140" stroke-width="1.2" stroke-dasharray="8 12"/>
+  </g>
+  <rect x="360" y="160" width="260" height="180" rx="18" fill="#FFFFFF" fill-opacity="0.75" stroke="#D8E0EB" stroke-width="2"/>
+  <path d="M360 220H620" stroke="#D8E0EB" stroke-width="1.5" stroke-dasharray="6 6"/>
+  <path d="M450 160V340" stroke="#D8E0EB" stroke-width="1.5" stroke-dasharray="6 6"/>
+  <g filter="url(#shadow)">
+    <circle cx="510" cy="250" r="26" fill="#6FA6C7"/>
+  </g>
+  <circle cx="510" cy="250" r="10" fill="#FFFFFF"/>
+  <path d="M510 238L515 248H505L510 238Z" fill="#243140"/>
+  <text x="510" y="310" text-anchor="middle" font-family="'Inter', 'Arial', sans-serif" font-weight="600" font-size="20" fill="#243140">Yeka Sub-City</text>
+  <text x="510" y="336" text-anchor="middle" font-family="'Inter', 'Arial', sans-serif" font-size="14" fill="#5E6B7A">Woreda 09 • H.No 2465</text>
+  <defs>
+    <linearGradient id="gradient" x1="60" y1="40" x2="840" y2="500" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E9F0F8"/>
+      <stop offset="0.5" stop-color="#F6F1EB"/>
+      <stop offset="1" stop-color="#F4E5D6"/>
+    </linearGradient>
+    <filter id="shadow" x="470" y="210" width="80" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="8"/>
+      <feGaussianBlur stdDeviation="8"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.2 0 0 0 0 0.29 0 0 0 0 0.37 0 0 0 0.18 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+    </filter>
+  </defs>
+</svg>

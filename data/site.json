@@ -1,0 +1,334 @@
+{
+  "name": "Aladian Trading PLC",
+  "tagline": "Ethiopian trading and manufacturing group delivering diversified industrial solutions across Africa.",
+  "meta": {
+    "title": "Aladian Trading PLC | Diversified Trading & Manufacturing in Ethiopia",
+    "description": "Aladian Trading PLC is a diversified Ethiopian enterprise delivering manufacturing, distribution, paper conversion, agro-processing, construction, mining, and infrastructure capabilities for African markets.",
+    "keywords": [
+      "Ethiopia",
+      "Trading",
+      "Manufacturing",
+      "Agro-processing",
+      "Construction",
+      "Infrastructure"
+    ]
+  },
+  "hero": {
+    "headline": "Diversified Trading & Manufacturing in Ethiopia.",
+    "subheadline": "A multi-sector enterprise delivering manufacturing, distribution, and infrastructure solutions with regional scale and international standards.",
+    "primaryCta": { "label": "Explore Capabilities", "target": "#capabilities" },
+    "secondaryCta": { "label": "Contact Us", "target": "#contact" },
+    "stats": [
+      { "label": "Business Pillars", "value": "8" },
+      { "label": "Growth Markets", "value": "Africa & Middle East" },
+      { "label": "Current Projects", "value": "3 Active Tracks" }
+    ]
+  },
+  "overview": {
+    "paragraphs": [
+      "ALADIAN TRADING PLC is an Ethiopian-based trading and manufacturing company operating across complementary industrial pillars including manufacturing, wholesale distribution, paper conversion, food and agro-processing, import and export, construction, mining and minerals, transportation, and infrastructure development.",
+      "The company operates from Addis Ababa with a deliberate strategy to expand across African and international markets. Investments in people, technology, and operational infrastructure underpin a culture of continuous improvement and stakeholder value creation."
+    ],
+    "currentStatus": [
+      "Aladian Trading PLC currently delivers established construction materials wholesale services, commissions a dedicated sesame tahini production facility, and advances specialty thermal paper manufacturing through strategic machinery procurement.",
+      "Recent milestones provide a solid foundation for the organisation's strategic objectives and near-term expansion roadmap."
+    ],
+    "stats": [
+      { "label": "Sectors", "value": "8" },
+      { "label": "Operating Base", "value": "Addis Ababa" },
+      { "label": "Expansion Horizon", "value": "Africa & Middle East" }
+    ],
+    "infographic": [
+      { "label": "Manufacturing", "icon": "factory" },
+      { "label": "Distribution", "icon": "arrows" },
+      { "label": "Paper Products", "icon": "files" },
+      { "label": "Food & Agro", "icon": "wheat" },
+      { "label": "Import & Export", "icon": "globe" },
+      { "label": "Construction", "icon": "crane" },
+      { "label": "Mining", "icon": "pickaxe" },
+      { "label": "Transport", "icon": "truck" }
+    ]
+  },
+  "sectors": [
+    {
+      "id": "manufacturing",
+      "name": "Manufacturing",
+      "summary": "Modern production capabilities delivering essential industrial and consumer goods.",
+      "detail": "We design, engineer, and scale production lines that respond to domestic demand while aligning with regional quality standards and compliance requirements."
+    },
+    {
+      "id": "distribution",
+      "name": "Wholesale & Distribution",
+      "summary": "Sourcing networks delivering industrial materials and consumables reliably across Ethiopia.",
+      "detail": "Dedicated logistics and warehousing assets ensure continuity of supply for construction, retail, and institutional partners."
+    },
+    {
+      "id": "paper",
+      "name": "Paper Products",
+      "summary": "Thermal, specialty, and packaging paper conversion for retail and logistics clients.",
+      "detail": "Precision slitting and conversion technologies support thermal receipts, labels, and packaging formats with consistent availability."
+    },
+    {
+      "id": "agro",
+      "name": "Food & Agro-processing",
+      "summary": "Value-added processing for Ethiopian crops and ingredients destined for export markets.",
+      "detail": "Controlled sourcing and traceability systems maintain quality, safety, and sustainability across agro value chains."
+    },
+    {
+      "id": "trade",
+      "name": "Import & Export",
+      "summary": "Cross-border trade services that bridge Ethiopian production with regional demand.",
+      "detail": "We manage compliance, logistics, and market intelligence to ensure efficient international commerce."
+    },
+    {
+      "id": "construction",
+      "name": "Construction",
+      "summary": "Building materials supply and project coordination for infrastructure growth.",
+      "detail": "Integrated procurement and on-site services support contractors, developers, and public infrastructure programmes."
+    },
+    {
+      "id": "mining",
+      "name": "Mining & Minerals",
+      "summary": "Strategic partnerships for the responsible extraction and processing of mineral resources.",
+      "detail": "Geologically informed projects prioritise safety, environmental stewardship, and downstream value creation."
+    },
+    {
+      "id": "transport",
+      "name": "Transportation & Infrastructure",
+      "summary": "Logistics platforms and infrastructure enablement for industrial partners.",
+      "detail": "Fleet management, warehousing, and infrastructure development services maintain continuity for multi-sector operations."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Construction Materials Wholesale",
+      "summary": "Expanding multi-region distribution of cement, steel, and finishing materials for developers.",
+      "status": "operational",
+      "progress": 90,
+      "milestone": "Nationwide fulfilment hubs live"
+    },
+    {
+      "name": "Sesame Tahini Production",
+      "summary": "Commissioning a hygienic processing line for premium sesame pastes destined for export.",
+      "status": "factory-construction",
+      "progress": 60,
+      "milestone": "Processing facility fit-out"
+    },
+    {
+      "name": "Thermal Paper & Related Products",
+      "summary": "Sourcing precision machinery to produce specialty paper rolls for retail and logistics clients.",
+      "status": "machinery-procurement",
+      "progress": 35,
+      "milestone": "Machinery acceptance in progress"
+    }
+  ],
+  "capabilities": [
+    {
+      "id": "manufacturing",
+      "title": "Manufacturing",
+      "description": "Modular plants engineered for high-uptime production of industrial and consumer products.",
+      "bullets": [
+        "Process automation aligned with ISO-ready standards",
+        "Preventive maintenance programmes and quality assurance labs",
+        "Flexible lines to support new product introductions"
+      ],
+      "image": "/illustrations/capability-manufacturing.svg"
+    },
+    {
+      "id": "distribution",
+      "title": "Distribution",
+      "description": "Synchronized supply chains powering nationwide availability of essential goods.",
+      "bullets": [
+        "Strategic warehousing in major Ethiopian regions",
+        "Vendor-managed inventory for key industrial accounts",
+        "Temperature-aware logistics for sensitive products"
+      ],
+      "image": "/illustrations/capability-distribution.svg"
+    },
+    {
+      "id": "paper",
+      "title": "Paper & Printing",
+      "description": "Precision conversion of specialty paper for retail, banking, and logistics clients.",
+      "bullets": [
+        "Thermal, label, and packaging formats",
+        "Ink and coating expertise for durability",
+        "Integrated procurement for sustainable fibres"
+      ],
+      "image": "/illustrations/capability-paper.svg"
+    },
+    {
+      "id": "agro",
+      "title": "Agro-Processing",
+      "description": "Traceable processing of Ethiopian crops into export-ready ingredients.",
+      "bullets": [
+        "Farm-level sourcing partnerships",
+        "Food safety and HACCP-aligned controls",
+        "Cold-chain and specialty storage"
+      ],
+      "image": "/illustrations/capability-agro.svg"
+    },
+    {
+      "id": "trade",
+      "title": "Import & Export",
+      "description": "Comprehensive trade facilitation for regional and international partners.",
+      "bullets": [
+        "Customs compliance and documentation",
+        "Market entry intelligence and partner matchmaking",
+        "Foreign exchange and financing coordination"
+      ],
+      "image": "/illustrations/capability-trade.svg"
+    },
+    {
+      "id": "construction",
+      "title": "Construction",
+      "description": "Integrated materials supply and onsite support for infrastructure projects.",
+      "bullets": [
+        "Aggregates, cement, steel, and finishing materials",
+        "Equipment sourcing and installation guidance",
+        "Project logistics coordination"
+      ],
+      "image": "/illustrations/capability-construction.svg"
+    },
+    {
+      "id": "mining",
+      "title": "Mining & Minerals",
+      "description": "Responsible resource development with downstream beneficiation potential.",
+      "bullets": [
+        "Exploration partnerships with community engagement",
+        "Processing technology selection and commissioning",
+        "Environmental stewardship and reporting"
+      ],
+      "image": "/illustrations/capability-mining.svg"
+    },
+    {
+      "id": "transport",
+      "title": "Transport & Infrastructure",
+      "description": "Transport fleets and infrastructure enablement for industrial ecosystems.",
+      "bullets": [
+        "Fleet management with telemetry visibility",
+        "Integrated warehousing and last-mile services",
+        "Public-private collaboration on infrastructure"
+      ],
+      "image": "/illustrations/capability-transport.svg"
+    }
+  ],
+  "differentiators": [
+    {
+      "title": "Continuous Improvement",
+      "description": "Lean operating models and digital monitoring drive measurable efficiency and quality gains."
+    },
+    {
+      "title": "Human Capital",
+      "description": "Specialist talent development ensures technical depth and leadership succession."
+    },
+    {
+      "title": "Technology Investments",
+      "description": "Industry 4.0 tools and data platforms enable proactive decision-making and compliance."
+    },
+    {
+      "title": "Development Infrastructure",
+      "description": "Robust logistics, utilities, and facilities provide resilience across portfolios."
+    },
+    {
+      "title": "Stakeholder Value",
+      "description": "Collaborative partnerships align investor, customer, and community objectives."
+    },
+    {
+      "title": "Reliability",
+      "description": "Disciplined governance and quality frameworks underpin every engagement."
+    }
+  ],
+  "vision": "Aladian Trading PLC, holding diversified companies, aims to be the prime choice of customers, principals, and investors by harnessing human competencies, state-of-the-art technology, continuous improvement, research, and dedicated professionalism across every endeavour.",
+  "mission": "We strive to lead by understanding customer needs, identifying business opportunities, and expanding into global markets while advancing technologies, processes, skills, and knowledge. Our teams deliver quality products and services, sustain reliability in East African markets, and achieve growth without compromising our values or business ethics.",
+  "values": [
+    { "name": "Mutual Respect", "description": "Treating partners, communities, and teams with dignity and openness." },
+    { "name": "Reliability", "description": "Delivering on commitments with consistent performance and follow-through." },
+    { "name": "Transparency", "description": "Communicating expectations and outcomes clearly across stakeholders." },
+    { "name": "Loyalty", "description": "Building lasting relationships grounded in trust and shared ambitions." },
+    { "name": "Honesty", "description": "Upholding truthfulness and ethical conduct in every engagement." },
+    { "name": "Integrity", "description": "Acting responsibly and in alignment with our principles at all times." }
+  ],
+  "objectives": [
+    "Expand investments across East Africa, the broader continent, and the Middle East to capture growth opportunities.",
+    "Diversify through new industries, joint ventures, and acquisitions that secure sustainable market share.",
+    "Create superior value through manufacturing and supplying high-quality oils, lubricants, and industrial products.",
+    "Maintain uncompromising adherence to international quality standards, certifications, and regulations.",
+    "Conduct business with honesty, consistency, and long-term sustainability.",
+    "Consistently exceed operational benchmarks and customer service expectations.",
+    "Grow market presence through wider African coverage and strategic partnerships.",
+    "Broaden the portfolio of products supplied to international markets.",
+    "Increase the diversity of imported products across new and established brands.",
+    "Nurture a culture that rewards innovation and develops solutions benefiting commerce and communities."
+  ],
+  "timeline": [
+    {
+      "period": "2024 Q4",
+      "title": "Commission sesame tahini facility",
+      "description": "Complete construction, install processing lines, and initiate test batches for export readiness."
+    },
+    {
+      "period": "2025 Q1",
+      "title": "Launch thermal paper production",
+      "description": "Finalize machinery procurement, onboard technical teams, and start commercial trials."
+    },
+    {
+      "period": "2025 Q2",
+      "title": "Expand distribution footprint",
+      "description": "Activate additional regional hubs and digitize inventory visibility for clients."
+    },
+    {
+      "period": "2025 Q3",
+      "title": "Secure mining partnerships",
+      "description": "Formalize joint ventures with community agreements and compliance frameworks."
+    },
+    {
+      "period": "2025 Q4",
+      "title": "Introduce circular packaging",
+      "description": "Commission eco-packaging pilots and integrate recycled fibre supply chains."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which sectors does Aladian Trading currently operate in?",
+      "answer": "The group spans eight pillars including manufacturing, wholesale distribution, paper conversion, agro-processing, import and export, construction, mining and minerals, and transport and infrastructure."
+    },
+    {
+      "question": "Where are operations headquartered?",
+      "answer": "Our operations are coordinated from Addis Ababa, Ethiopia, with expansion initiatives targeting broader African and Middle Eastern markets."
+    },
+    {
+      "question": "How does the company manage quality and compliance?",
+      "answer": "Integrated quality systems, adherence to international standards, and continuous improvement programmes ensure compliance across all business lines."
+    },
+    {
+      "question": "What partnerships does Aladian Trading seek?",
+      "answer": "We collaborate with suppliers, technology providers, financial institutions, and community stakeholders that align with our long-term growth agenda."
+    },
+    {
+      "question": "What differentiates Aladian Trading in the market?",
+      "answer": "A combination of disciplined governance, technology investment, skilled teams, and resilient infrastructure enables reliable delivery for partners." 
+    },
+    {
+      "question": "How can prospective partners get in touch?",
+      "answer": "Prospective partners can reach our team via the contact form, direct email at info.aladiantrading@et.com, or by phone at +251-901234950."
+    }
+  ],
+  "logoCloud": [
+    { "name": "Ethiopia Steel Works", "logo": "/logo.svg", "url": "https://example.com/partner1" },
+    { "name": "Horn Agro Export", "logo": "/logo.svg", "url": "https://example.com/partner2" },
+    { "name": "Nile Logistics", "logo": "/logo.svg", "url": "https://example.com/partner3" },
+    { "name": "Global Paper Source", "logo": "/logo.svg", "url": "https://example.com/partner4" },
+    { "name": "Addis Infrastructure Group", "logo": "/logo.svg", "url": "https://example.com/partner5" }
+  ],
+  "contact": {
+    "address": "Addis Ababa City, Yeka Sub-City, Woreda 09, H.No 2465",
+    "landmark": "In front of Ethiopian Electric Utility HQ",
+    "phones": ["+251-901234950", "+251-950443138"],
+    "email": "info.aladiantrading@et.com",
+    "website": "www.aladiantrading@et.com",
+    "map": {
+      "image": "/maps/head-office.svg",
+      "link": "https://www.openstreetmap.org/search?query=Addis%20Ababa%20City%20Yeka%20Sub-City%20Woreda%2009%20H.No%202465"
+    }
+  }
+}
