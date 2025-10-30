@@ -39,7 +39,12 @@ export function ProjectsSpotlight({ projects }: ProjectsSpotlightProps) {
               />
             </div>
           </div>
-          <div className="mt-4 text-sm font-semibold text-brand-ink">{project.milestone}</div>
+          <div className="mt-4 flex flex-wrap items-center gap-3">
+            <span className="rounded-full bg-brand-accent/15 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-brand-ink">
+              Next step
+            </span>
+            <p className="text-sm font-medium text-brand-muted">{project.milestone}</p>
+          </div>
         </motion.article>
       ))}
     </div>

@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import { useScrollProgress } from "@/lib/hooks";
 
-export function ScrollProgress() {
+export function ProgressBar() {
   const progress = useScrollProgress();
 
   return (

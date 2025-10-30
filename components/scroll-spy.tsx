@@ -4,7 +4,7 @@ import { sections } from "@/lib/sections";
 import { useScrollSpy } from "@/lib/hooks";
 import { cn } from "@/lib/utils";
 
-export function DotNav() {
+export function ScrollSpy() {
   const activeId = useScrollSpy(sections.map((section) => section.id));
 
   return (

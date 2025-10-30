@@ -12,8 +12,8 @@ export function Hero() {
 
   return (
     <section
-      id="overview"
-      data-section="overview"
+      id="hero"
+      data-section="hero"
       className="relative overflow-hidden bg-gradient-to-br from-brand-mist/60 via-brand-canvas to-brand-blush/60 scroll-mt-32"
     >
       <div className="absolute inset-0 bg-hero-texture opacity-40" aria-hidden />

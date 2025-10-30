@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 import { siteConfig } from "@/lib/config";
 
 export function Map() {
@@ -16,14 +15,14 @@ export function Map() {
         <span>
           {siteConfig.contact.address} — {siteConfig.contact.landmark}
         </span>
-        <Link
+        <a
           href={siteConfig.contact.map.link}
           target="_blank"
           rel="noopener noreferrer"
           className="text-sm font-semibold text-brand-ink hover:underline"
         >
           Open in Maps
-        </Link>
+        </a>
       </figcaption>
     </figure>
   );

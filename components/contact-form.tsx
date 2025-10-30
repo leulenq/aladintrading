@@ -40,7 +40,9 @@ export function ContactForm({ className }: ContactFormProps) {
           description: "Thank you for connecting with Aladian Trading. Our team will respond shortly.",
           variant: "success",
         });
-        setTimeout(() => router.push("/success"), 1200);
+        setTimeout(() => {
+          router.replace("/?contact=success#contact");
+        }, 1000);
       } catch (error) {
         console.error(error);
         toast({
@@ -56,7 +58,7 @@ export function ContactForm({ className }: ContactFormProps) {
     <form
       name="contact"
       method="POST"
-      action="/success"
+      action="/"
       data-netlify="true"
       data-netlify-honeypot="bot-field"
       className={cn("space-y-5", className)}
